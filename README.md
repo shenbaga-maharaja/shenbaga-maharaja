@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)](https://jebastinmichaelraj.github.io/)
 
-<h1 align="center">Hi 👋, I'm Shenbaga Maharaja A</h1>
+<h1 align="center">Hi 👋, I'm Shenbaga Maharaja</h1>
 <h3 align="center">A Boy hails from The South with aspirations aiming beyond The Sky ✨</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
