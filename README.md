@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenbaga-maharaja&label=Profile%20views&color=0e75b6&style=flat" alt="shenbaga-maharaja" /> </p>
 
-- 🔭 I’m currently working on [MedTracker](https://medcomportal.azurewebsites.net/)
+- 🔭 I’m currently working on [MedTracker](https://medcomportal.azurewebsites.net/MedTracker)
 
 - 👨‍💻 All of my projects are available at [https://shenbaga-maharaja.github.io/](https://shenbaga-maharaja.github.io/)
 
